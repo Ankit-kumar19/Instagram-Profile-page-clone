@@ -56,12 +56,8 @@ repository](https://github.com/Ankit-kumar19)
 
 ## Authors
 
-  - **Ankit Kumar** - *Provided README Template* -
-    [Ankit-kumar19](https://github.com/Ankit-kumar19)
+  - **Ankit Kumar** - [Ankit-kumar19](https://github.com/Ankit-kumar19)
 
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
 
 ## License
 
