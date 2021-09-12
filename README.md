@@ -4,7 +4,7 @@ A responsive and interactive Instagram profile page clone buuilt using html , cs
 
 ## Demo
 
-Here is the working Live Demo : [Insta-Profile-Page](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
+Here is the working Live Demo : [Insta-Profile-Page](https://instagram-profile-page-f9d3a4.netlify.app/).
 
 ## Getting Started
 
@@ -27,7 +27,7 @@ Fork the Repository on Your github profie.
 
 Clone the repository on your local machine using 
 
-    git clone 
+    git clone https://github.com/Ankit-kumar19/Instagram-Profile-page-clone.git
 
 Go to the Cloned Folder using 
 
