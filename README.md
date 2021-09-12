@@ -1,6 +1,6 @@
 # Instagram Profile Page Clone
 
-A responsive and interactive Instagram profile page clone buuilt using html , css & js. 
+A responsive and interactive Instagram profile page clone buuilt using html & Css. 
 
 ## Demo
 
